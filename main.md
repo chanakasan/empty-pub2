@@ -1,5 +1,10 @@
 # main
 
+# wget
+```
+Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Internet Explorer\Main" -Name "DisableFirstRunCustomize" -Value 2
+```
+
 ## winget
 - https://github.com/microsoft/winget-cli/releases/tag/v1.4.10173
 - https://github.com/microsoft/winget-cli/releases/download/v1.4.10173/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
