@@ -1,1 +1,1 @@
-# win10-setup
+# install win10 software
