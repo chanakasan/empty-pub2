@@ -6,6 +6,11 @@
 - Windows Terminal
 - VS Code
 
+## Powershell
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
+
 ## Clone
 ```
 git clone https://github.com/chanakasan/chk-vimrc
